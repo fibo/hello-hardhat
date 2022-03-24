@@ -21,6 +21,10 @@ See my second contract `0x9D493D5882A49fBA49845f01cC51d01dfA4D9E39` deployed on:
 - [OpenSea testnet](https://testnets.opensea.io/assets?search[query]=0x9D493D5882A49fBA49845f01cC51d01dfA4D9E39)
 - [Rarible testnet](https://rinkeby.rarible.com/collection/0x9d493d5882a49fba49845f01cc51d01dfa4d9e39/items)
 
+See my first random generated NFT `0xdB3a37407ed9F536Ca7446Ec3E8b1bFfD3DDD0d5` deployed on:
+- [Rinkeby Etherscan](https://rinkeby.etherscan.io/address/0xdB3a37407ed9F536Ca7446Ec3E8b1bFfD3DDD0d5).
+- [OpenSea testnet](https://testnets.opensea.io/assets?search[query]=0xdB3a37407ed9F536Ca7446Ec3E8b1bFfD3DDD0d5&search[resultModel]=ASSETS)
+
 ## See also
 
 - [Hardhat](https://hardhat.org/)
